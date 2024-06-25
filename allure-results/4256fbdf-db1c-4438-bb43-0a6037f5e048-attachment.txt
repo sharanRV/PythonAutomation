@@ -1,0 +1,6 @@
+Create Booking Testcase
+<class 'str'>
+<class 'dict'>
+<class 'dict'>
+f51b7f48c27a9b4
+{'Content-Type': 'application/json', 'Cookie': 'token =f51b7f48c27a9b4'}

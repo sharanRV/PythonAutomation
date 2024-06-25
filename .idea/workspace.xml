@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ac14847-ae0c-4e7d-8ce0-cb9c129e8f36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonAutomation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/conf_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/test_lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/test_lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/test_lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/test_lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/test_lab5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/test_lab6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/test_lab7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restfulbooker_At/test_lab8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0a9f71ab-3628-476a-956e-4ae68eda693f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e62c03a-bc4b-4602-b8d1-8896de1901aa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2fefaa70-2061-4571-abb5-c4fd453a0175-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/349df759-ffc2-4ce3-bdaa-4520e3de03f4-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3df1e4b5-e341-4f26-aeb0-0a41e194aef6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4256fbdf-db1c-4438-bb43-0a6037f5e048-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/442e8845-6edc-48c8-af39-e3ff4a82aad6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47bb8401-d0f5-4def-92b9-c2547f71bf4d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/60f0c7f9-0911-4b0d-a2ec-8066b6f7f7a0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/620c9621-5524-4649-8da8-c9fd5c77d4d6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6b7db33f-b1a7-4788-aa10-22cfe5748268-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6c42991e-49aa-481b-a275-89541e0fbf48-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6d55b309-02d5-48fa-b099-28e43f4c65c6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7a451a55-6ba6-4cdb-9d04-5d732936540a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8bf7bad4-2745-447f-86bc-fcd1aca2842b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8fc628a2-5b13-4a18-9bc0-f46e8b060433-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9039eb72-2651-423d-9b48-2bd09cc8d437-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/982da97e-f793-4b10-b4ae-8e8d735ec056-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9a3dfcf8-e3bf-42a0-a52e-247d748351cf-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aebc73dd-3c7b-4f57-8c37-c54e0bd88660-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f1f5459e-0858-44af-a33e-b6b35d052963-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_practice/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_practice/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_practice/Lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_practice/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2i4eu2J3TpZE2qEIIbCr4Ng1Azh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for Lab1.test_additi.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab1.test_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab1.test_additionn.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab1.test_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab3.test_create_booking_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab3.test_create_booking_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab4.test_put_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in conf_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab4.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab5.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab6.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab7.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab8.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.At_lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conf_test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Jun19_24" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for Lab1.test_additi">
+    <configuration name="Python tests for Lab1.test_additi" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jun19_24/Jun21_24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Lab1.test_additi&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Restfulbooker_At.test_lab1.test_addition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Restfulbooker_At" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Restfulbooker_At.test_lab1.test_addition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab3.test_create_booking_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Restfulbooker_At" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab3.test_create_booking_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab3.test_create_booking_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Restfulbooker_At" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab3.test_create_booking_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab4.test_put_request" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Restfulbooker_At" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab4.test_put_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for Lab1.test_additi" />
+        <item itemvalue="Python tests.Python tests for test_lab4.test_put_request" />
+        <item itemvalue="Python tests.Python tests for test_lab3.test_create_booking_positive" />
+        <item itemvalue="Python tests.Python tests for test_lab3.test_create_booking_negative" />
+        <item itemvalue="Python tests.Python tests for Restfulbooker_At.test_lab1.test_addition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ac14847-ae0c-4e7d-8ce0-cb9c129e8f36" name="Changes" comment="" />
+      <created>1718754496737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718754496737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
